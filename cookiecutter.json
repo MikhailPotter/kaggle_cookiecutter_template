@@ -1,5 +1,5 @@
 {
     "competition_name": "Kaggle Competition Project",
     "project_slug": "{{ cookiecutter.competition_name.lower().replace(' ', '_') }}",
-    "author_name": "Mikhail Potter",
+    "author_name": "Mikhail Potter"
 }
